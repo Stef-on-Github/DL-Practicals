@@ -1,0 +1,3 @@
+Practical 09 -
+url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/airline-passengers.csv"
+df = pd.read_csv(url)
